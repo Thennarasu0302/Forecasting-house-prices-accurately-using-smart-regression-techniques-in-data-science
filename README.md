@@ -109,7 +109,7 @@ Evaluation Metrics:
 - Distribution plots of predicted vs actual prices
 
 
-## HOuse prediction 
+## House prediction 
 ![Image](https://github.com/user-attachments/assets/0599529b-1c54-4299-befe-b9213227e19d)
 ---
 
