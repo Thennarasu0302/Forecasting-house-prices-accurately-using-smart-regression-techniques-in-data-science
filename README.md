@@ -140,7 +140,7 @@ Evaluation Metrics:
 
 ## 🔗 GitHub Repository
 
-👉 [GitHub Link](https://github.com/aut2341230187/House-price-prediction-.git)
+👉 [GitHub Link](https://github.com/Thennarasu0302/Forecasting-house-prices-accurately-using-smart-regression-techniques-in-data-science)
 
 ---
 
